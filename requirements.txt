@@ -1,0 +1,51 @@
+
+# Core NLP Libraries
+transformers
+sentence-transformers
+
+# LangChain for building RAG applications
+langchain
+
+# LLM Libraries
+openai
+cohere
+huggingface_hub
+# Vector Stores (Choose one as per your need, or include both if experimenting)
+faiss-cpu
+weaviate-client
+
+# Document Handling & Preprocessing
+pdfminer.six
+pymupdf
+beautifulsoup4
+html2text
+unstructured
+
+# Semantic Search & Embeddings
+pinecone-client
+qdrant-client
+milvus
+
+# Database (Optional, based on your deployment requirements)
+sqlalchemy
+psycopg2-binary # for PostgreSQL, if needed
+
+# API Framework for Deployment
+fastapi
+uvicorn
+
+# Additional Utilities
+tqdm
+numpy
+pandas
+
+# Deployment Tools (Optional, if using Docker or cloud)
+gunicorn
+docker
+boto3 # AWS SDK if deploying on AWS
+
+# Authentication & Security (Optional)
+authlib
+
+
+langserve
