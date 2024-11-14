@@ -1,0 +1,9 @@
+.env
+RAG
+langchain.ipynb
+localama.py
+
+app1.py
+
+# Ignore all .env files
+.env*
