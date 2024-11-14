@@ -7,4 +7,5 @@ import os
 
 from langchain_community.llms import Ollama
 
+
 os.environ['OPEN_API_KEY'] = os.getenv('OPEN_API_KEY')
